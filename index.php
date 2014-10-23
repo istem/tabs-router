@@ -36,6 +36,8 @@
 			// опции для poll_Handler (не обязательно)
 			var POLL_OPTIONS = <?php echo $POLL_OPTIONS_JS ?>;
 		</script>
+		<script type="text/javascript" src="client.js"></script>
+		
 		<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 		
 		<script type="text/javascript">
